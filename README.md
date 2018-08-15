@@ -1,7 +1,7 @@
 # Livro Aprendendo na prática PhantomJS
 
 
-## Descrição
+## Sobre este repositório
 
 Este repositório faz parte do livro Aprendendo na prática PhantomJS disponível em https://amzn.to/2KPCh0Y.
 
